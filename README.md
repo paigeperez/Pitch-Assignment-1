@@ -1,1 +1,3 @@
 # Pitch-Assignment-1
+Through the American Community Surveys (1-Year Estimates) using Social Explorer, I am observing the NYC- Brooklyn Communitu District 2--Brooklyn Heights & Fort Greene PUMA, New York SE:A10005B: Families and Prescence of Own Children (Renter-Occupied Housing Units) comparing 2019 to 2018. 
+Specifically, the "No Related Children of the Householder Under 18" was 34,807 or 79.2% in 2018 compared to 35,523 or 82.5% in 2019. The story would focus on what factors led to the increase to occur and some research on what those household units look like and what challenges they face if any.
